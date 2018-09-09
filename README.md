@@ -8,5 +8,8 @@ npm i -g meta
 ```
 
 ## Sources
+https://www.npmjs.com/get-npm
+
 https://github.com/mateodelnorte/meta
+
 https://medium.com/@patrickleet/mono-repo-or-multi-repo-why-choose-one-when-you-can-have-both-e9c77bd0c668
