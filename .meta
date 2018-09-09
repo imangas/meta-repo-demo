@@ -1,7 +1,7 @@
 {
   "projects": {
     "bootstrap": "git@github.com:twbs/bootstrap.git",
-    "frontend": "git@github.com:imangas/jenkins-vue-demo.git",
+    "frontend": "git@github.com:imangas/vue-demo-layout-session.git",
     "backend": "git@github.com:chrisdiana/slim-rest-api-demo.git"
   }
 }

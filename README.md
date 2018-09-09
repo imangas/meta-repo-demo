@@ -6,6 +6,11 @@ To run this demo, you need to have installed npm and meta:
 ```
 npm i -g meta
 ```
+## Clone
+To clone all the repos at once, runt this:
+```
+meta git clone git@github.com:imangas/meta-repo-demo.git
+```
 
 ## Sources
 https://www.npmjs.com/get-npm
